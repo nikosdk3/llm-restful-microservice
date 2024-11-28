@@ -3,7 +3,7 @@
 # Test Response Structure
 
 API_URL="http://52.91.2.250:8080/query"
-API_KEY="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"  # Replace with a valid OpenAI API key
+API_KEY=""  # Replace with a valid OpenAI API key
 
 # Make a POST request with a valid Authorization token and a message
 response=$(curl -s -w "%{http_code}" -o response.json -X POST "$API_URL" \
