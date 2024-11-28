@@ -28,7 +28,6 @@ Here is an example of using an OpenAI API Key in Postman:
 ## Setup Instructions
 
 ## Testing Locally
-******************
 
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
