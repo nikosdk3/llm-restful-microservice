@@ -65,3 +65,6 @@ Add your OpenAI API Key to each bash script and run them.
 
 ## Limitations
 The text generation is limited to 20 words, meaning some responses will be cut off. This is intentional so that the OpenAI API usage is minimal to reduce costs.
+
+## Video Demonstration
+https://youtu.be/Eg-ojPfplek
